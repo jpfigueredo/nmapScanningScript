@@ -4,7 +4,8 @@ import nmap
 
 scanner = nmap.PortScanner()
 
-print("Simple NMAP automation script")
+# Simple NMAP automation script
+
 ipAddress = input("Enter IP for scan: ")
 print("IP entered: ", ipAddress)
 type(ipAddress)
