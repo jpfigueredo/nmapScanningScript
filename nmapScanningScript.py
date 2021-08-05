@@ -37,3 +37,5 @@ elif(response == '3'):
     print("IP Status: ", scanner[ipAddress].state())
     print(scanner[ipAddress].allprotocols())
     print("Open ports: ", scanner[ipAddress]['tcp'].keys())
+else:
+    print("Invalid Option.")
