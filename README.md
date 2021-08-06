@@ -1,5 +1,5 @@
 <div>
-  <h1>Nmap Scanning Script (NSS)</h1>
+  <h1>Nmap Scanning Script</h1>
   <h2>This script allows us to scan ip addresses and their ports with nmap.</h2>
 </div>
 <div>
